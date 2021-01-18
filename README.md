@@ -4,7 +4,9 @@
 **Student ID :** 61070076
 
 **Name :** Thanawat Phutchip
-> *King mongkut's institute of technology ladkrabang*
+> *[IT @ KMITL](https://www.it.kmitl.ac.th/)*
+
 ```sh
-print("hello world")
+print("Hello world, IT @ KMITL")
 ```
+[![](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th/)
